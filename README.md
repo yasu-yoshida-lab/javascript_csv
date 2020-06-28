@@ -3,7 +3,7 @@
 ### ファイル構成
 ##### HTML ファイル（index.HTML）
 csv ファイルの表示を行うための HTML ファイルです。表示したい csv ファイルを選択することで web ブラウザ上で csv ファイルを見ることができます。
-[実際のページ](./index.html)
+[実際のページ](https://yasu-yoshida-lab.github.io/javascript_csv/)
 ##### javascript ファイル（csv.js）
 csv ファイルを HTML の table 要素に変換するための javascript ファイルです。変換だけでなく、行数と列数もファイル選択部分の隣に表示する仕様になっています。
 ##### CSS ファイル（table.css）
